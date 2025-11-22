@@ -1,0 +1,18 @@
+# Data
+*.csv
+*.pkl
+*.h5
+
+# Models
+*.model
+*.joblib
+
+# Logs
+*.log
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
